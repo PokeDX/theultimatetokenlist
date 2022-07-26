@@ -1,0 +1,33 @@
+{
+    "name": "PokeDX",
+    "website": "https://pokedx.app/",
+    "description": "PDX is the native token of PokeDX (PDX Exchange). The cross-chain DeFi exchange is the only digital asset platform that is centralized. PDX aims to offer best-in-class DEX aggregation and supports sophisticated order-types, in addition to portfolio management and analytics dashboards.",
+    "explorer": "https://bscscan.com/token/0x43a0C5EB1763A211Aa3c05849A617f2eE0452767",
+    "type": "BEP20",
+    "symbol": "PDX",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x43a0C5EB1763A211Aa3c05849A617f2eE0452767",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/pdxexchange"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/dextalks"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/pokedx/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/pokedx"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/PokeDX/theultimatetokenlist"
+        }
+    ]
+}
